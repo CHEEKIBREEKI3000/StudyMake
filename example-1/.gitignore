@@ -1,3 +1,2 @@
-*.o
-
-*.dSYM
+*hello
+*hello-dbg
